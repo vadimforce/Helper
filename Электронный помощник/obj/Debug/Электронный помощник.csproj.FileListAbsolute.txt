@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\bin\Debug\Электронный помощник.exe.config
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\bin\Debug\Электронный помощник.exe
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\bin\Debug\Электронный помощник.pdb
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный помощник.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.StartForm.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный помощник.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный помощник.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный помощник.exe
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный помощник.pdb
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.SelectForm.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.MainFormAdmin.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.MainBossForm.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.MainManagerForm.resources
+C:\Users\Vadim\Desktop\Электронный помощник\Электронный помощник\obj\Debug\Электронный_помощник.Registration.resources
